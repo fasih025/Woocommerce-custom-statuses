@@ -1,0 +1,18 @@
+.widefat .type-shop_subscription .column-status mark.dormant{
+    background-color: #afdbff;
+	color: #2771ad;
+}
+.widefat .type-shop_subscription .column-status mark.inactive{
+    background-color: #ffa184;
+	color: #af2900;
+}
+
+.widefat .type-shop_subscription .column-status mark.paused{
+    background-color: #f8dda7;
+	color: #94660c;
+}
+
+.widefat .type-shop_subscription .column-status mark.free-trial{
+    background-color: #f8a7ee;
+	color: #9a0087;
+}
